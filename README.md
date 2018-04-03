@@ -14,7 +14,7 @@ CMD：run 這個image的時候會啟動的指令，一個dockerfile只能有一�
 
 路徑cd 到dockerfile
 
-`docker build -t alexchiangoa/pglivetomcat:80 . --no-cache`
+`docker build -t alexchiangoa/tomcat:80 . --no-cache`
 
 登入docker
 
