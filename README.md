@@ -6,7 +6,11 @@
 
 `docker build -t alexchiangoa/pglivetomcat:80 . --no-cache`
 
+登入docker
+
 `docker login`
+
+上傳到docker hub
 
 `docker push alexchiangoa/pglivetomcat`
 
