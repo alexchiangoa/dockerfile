@@ -4,4 +4,4 @@
 
 路徑cd 到dockerfile
 
-docker build -t alexchiangoa/pglivetomcat:80 . --no-cache
+`docker build -t alexchiangoa/pglivetomcat:80 . --no-cache`
